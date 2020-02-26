@@ -1,0 +1,25 @@
+{
+  "name": "hw9",
+  "version": "1.0.0",
+  "description": "json package for hw9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaerickson/Hw9.git"
+  },
+  "author": "Ian Erickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaerickson/Hw9/issues"
+  },
+  "homepage": "https://github.com/iaerickson/Hw9#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4",
+    "utility": "^1.16.3"
+  }
+}
